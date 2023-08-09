@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NewNet12 Pin=R12-1
+Removed Pin From Net: NetName=NewNet12 Pin=U5-5
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=U5-5
+Added Net: Name=NetR12_1
+Added Room: Name=Interface_2 SCH

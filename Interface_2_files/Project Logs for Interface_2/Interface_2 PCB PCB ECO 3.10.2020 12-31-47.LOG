@@ -1,0 +1,24 @@
+Added Component: Designator=U2(SUPERSOT-6)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Hot Swap Controllers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FDC6324L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,60000, 10=0,52900, 25=0,49680, 100=0,37670, 250=0,32060, 500=0,30458, 1000=0,23244 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "56731"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "FDC6324LCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.036g"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_2 Pin=U2-1
+Added Pin To Net: NetName=NetR5_1 Pin=U2-2
+Added Pin To Net: NetName=NetR5_1 Pin=U2-3
+Added Pin To Net: NetName=VCC Pin=U2-4
+Added Pin To Net: NetName=NewNet34 Pin=U2-5
+Added Pin To Net: NetName=NetR4_1 Pin=U2-6
+Added Member To Class: ClassName=Interface_2 SCH Member=Component U2 FDC6324L
+Added Room: Name=Interface_2 SCH
